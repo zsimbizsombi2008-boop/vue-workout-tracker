@@ -1,0 +1,14 @@
+[
+{
+"id": "sample-1",
+"name": "Futás",
+"duration": 30,
+"completed": false
+},
+{
+"id": "sample-2",
+"name": "Súlyzós edzés",
+"duration": 60,
+"completed": false
+}
+]
